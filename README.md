@@ -25,7 +25,7 @@ The goal of this repository is to extend the work presented in [sysid-transforme
 <img src="doc/paper/fig/patch_sequence.png"  width="1400">
  and obtaining not only point estimate of the future output but even a confidence of the prediction. 
 
-Trained weights of all the Transformers discussed in the example section of the paper are available as assets in the [v0.1 Release](https://github.com/mattrufolo/sysid_prob_transformer/releases/tag/v0.1).
+Trained weights of all the Transformers discussed in the example section of the paper are available as assets in the [v0.1 Release](https://github.com/mattrufolo/sysid-prob-transformer/releases/tag/v0.1).
 
 
 
