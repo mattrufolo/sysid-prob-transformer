@@ -1,7 +1,7 @@
 # In-context learning for model-free system identification
 
-<!-- This repository contains the Python code to reproduce the results of the paper [In-context learning for model-free system identification](http://arxiv.org/abs/2308.13380)
-by Matteo Rufolo, Dario Piga, Gabriele Maroni, Marco Forgione. -->
+This repository contains the Python code to reproduce the results of the paper [In-context learning for model-free system identification](http://arxiv.org/abs/2308.13380)
+by Matteo Rufolo, Dario Piga, Gabriele Maroni, Marco Forgione.
 
 In this repository we extend the model-free in-context learning architecture introduced here [In-context learning for model-free system identification](http://arxiv.org/abs/2308.13380) for System Identification, where a *meta model* is trained to describe an entire class of dynamical systems.
 We focus on three key innovations: formulating the learning task within a probabilistic framework; managing non-contiguous context and query windows; and integrating recurrent patching to effectively handle long context sequences.
@@ -71,17 +71,12 @@ If you find this project useful, we encourage you to:
 
 
 
-<!-- * Cite the [paper](https://arxiv.org/abs/2308.13380) 
+* Cite the [paper](http://arxiv.org/abs/2308.13380) 
 ```
-@article{forgione2023from,
-  author={Forgione, Marco and Pura, Filippo and Piga, Dario},
-  journal={IEEE Control Systems Letters}, 
-  title={From System Models to Class Models:
-   An In-Context Learning Paradigm}, 
-  year={2023},
-  volume={7},
-  number={},
-  pages={3513-3518},
-  doi={10.1109/LCSYS.2023.3335036}
+@article{rufolo2024enhanced,
+  title={Enhanced Transformer architecture for in-context learning of dynamical systems},
+  author={Rufolo, Matteo and Piga, Dario and Maroni, Gabriele and Forgione, Marco},
+  journal={arXiv preprint arXiv:2410.03291},
+  year={2024}
 }
-``` -->
+```
