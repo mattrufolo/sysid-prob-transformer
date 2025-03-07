@@ -1,6 +1,6 @@
-# In-context learning for model-free system identification
+# Probabilstic in-context learning for model-free system identification
 
-This repository contains the Python code to reproduce the results of the paper [In-context learning for model-free system identification](http://arxiv.org/abs/2308.13380)
+This repository contains the Python code to reproduce the results of the paper [Probabilistic in-context learning for model-free system identification](http://arxiv.org/abs/2308.13380)
 by Matteo Rufolo, Dario Piga, Gabriele Maroni, Marco Forgione.
 
 In this repository we extend the model-free in-context learning architecture introduced here [In-context learning for model-free system identification](http://arxiv.org/abs/2308.13380) for System Identification, where a *meta model* is trained to describe an entire class of dynamical systems.
